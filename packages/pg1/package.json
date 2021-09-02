@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "loadsh": "^0.0.4"
+    "loadsh": "^0.0.4",
+    "pg2": "1.0.0"
   }
 }

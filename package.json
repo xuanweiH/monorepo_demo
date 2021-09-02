@@ -1,7 +1,11 @@
 {
   "name": "root",
   "private": true,
+  "workspaces": [
+    "pg1", "pg2", "pg3"
+  ],
   "devDependencies": {
-    "lerna": "^4.0.0"
+    "lerna": "^4.0.0",
+    "lerna-update-wizard": "^0.17.8"
   }
 }
